@@ -1,3 +1,4 @@
+see https://github.com/twitwi/slidev-addon-incubation
 (moved in the form of an addon)
 
 
