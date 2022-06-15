@@ -1,3 +1,5 @@
+(moved in the form of an addon)
+
 
 # Some experiments and coming contributions to slidev
 
